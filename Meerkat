@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Animal Trading Cards</title>
+	<link href="styles.css" rel="stylesheet">
+</head>
+<body>
+	<div class="card">
+		<h3  class="name">Meerkat</h3>
+		<img class="meerkat_banner" src="https://www.yorkshirewildlifepark.com/wp-content/uploads/2016/05/meerkat-banner.jpg" alt="meerkat_fun_facts">
+		<div class="text">
+			<p class="interesting">Meerkat calls have meanings, signalling the type of predator and the urgency of the situation.</p>
+			<ul>
+				<li class="facts"><span class="label">A Meerkat is also called</span>: Suricata suricatta</li>
+				<li class="facts"><span class="label">It eats</span>: Insects and fruits</li>
+				<li class="facts"><span class="label">It lives in</span>: South Africa</li>
+				<li class="facts"><span class="label">Its life span is</span>: 12-14 years</li>
+			</ul>
+			<p>A group of meerkats is called a "clan". A meerkat clan often has about 20 meerkats, but some super-families contain 50 members. To look out for predators, one or more meerkats stand sentry, to warn others of approaching dangers. Meerkats also chirrup, trill, growl, or bark. Meerkats also babysit the young in the group.</p>
+		</div>
+	</div>
+</body>
+</html>
